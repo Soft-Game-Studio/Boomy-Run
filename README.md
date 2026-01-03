@@ -82,8 +82,7 @@ Run through exciting levels, collect coins, avoid dangerous tanks and obstacles,
 
 *Add screenshots of gameplay here*
 
-```
-/screenshots
+
  ├── <img src="game1.png" />
  ├── <img src="game2.png" />
  ├── <img src="game3.png" />
@@ -92,7 +91,7 @@ Run through exciting levels, collect coins, avoid dangerous tanks and obstacles,
  ├── <img src="game6.png" />
  ├── <img src="game7.png" />
  ├── <img src="game8.png" />
-```
+
 
 ---
 
