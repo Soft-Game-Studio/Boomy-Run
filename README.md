@@ -1,123 +1,88 @@
 # 🎮 Boomy Run
 
-**Boomy Run** is a fun, casual coin-collecting runner game built with **Unity**. The game is designed to be **easy, funny, and mind‑relaxing**, making it enjoyable for players of all ages.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge" alt="Status Available">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Windows Support">
+  <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity" alt="Unity Engine">
+</p>
 
-Run through exciting levels, collect coins, avoid dangerous tanks and obstacles, and safely reach the finish point.
+**Boomy Run** is an addictive, casual coin-collecting runner designed by **Soft Game Studio**. Built for a "mind-relaxing" experience, players navigate vibrant levels, dodge dangerous tanks, and hunt for gold. 
 
----
-
-## 🚀 Game Overview
-
-* **Genre:** Casual / Runner
-* **Engine:** Unity
-* **Developer:** Soft Game Studio
-* **Cost:** Free to Play
-* **Login Required:** No
-* **Game Size (Windows):** ~155 MB
+[🚀 Download Now](https://github.com/) • [🐞 Report Bug](https://github.com/) • [💡 Suggest Feature](mailto:team.softgamestudio@gmail.com)
 
 ---
 
-## 🕹 Current Gameplay (Available Now)
+## 🕹 Game Modes
 
-### 🪙 Coin Quest Run
+### 🪙 Coin Quest (Available Now)
+The classic objective-based mode. Navigate the terrain, avoid heavy artillery (tanks), and reach the finish line with your pockets full of gold.
 
-* Collect coins throughout the level
-* Avoid tanks and other obstacles
-* Reach the finish point safely
-* Simple controls and smooth gameplay
+### ♾️ Endless Runner (Coming Soon)
+Test your endurance! The speed increases, the obstacles multiply, and the only goal is the highest score possible.
+
+### 🌐 Multiplayer Challenge (In Development)
+Compete in real-time. Face off against other players to see who can clear the map and claim the most coins first.
 
 ---
 
-## ⏳ Upcoming Game Modes
+## 🚀 Technical Overview
 
-### ♾ Endless Coin Runner *(Coming Soon)*
-
-* Endless running gameplay
-* Increasing difficulty over time
-* Focus on survival and high scores
-
-### 🌐 Multiplayer Coin Challenge *(Coming Soon)*
-
-* Compete with other players
-* Collect the maximum number of coins on the map
-* Competitive multiplayer experience
+| Feature | Details |
+| :--- | :--- |
+| **👨‍💻 Developer** | Soft Game Studio |
+| **⚙️ Engine** | Unity 3D |
+| **📦 Size** | ~155 MB |
+| **🎮 Controls** | Keyboard / Controller Support |
+| **💰 Model** | 100% Free to Play |
 
 ---
 
 ## ✨ Key Features
 
-* 🆓 Completely free of cost
-* 😄 Easy and funny gameplay
-* 🧘 Mind‑relaxing experience
-* 🚀 No login or registration required
-* 🎮 Casual‑friendly controls
-
----
-
-## 💻 Platform Support
-
-### 🪟 Windows
-
-* Available now
-* Standalone installer (.exe)
-* Supports Windows 10 / 11 (64‑bit)
-
-### 📱 Android
-
-* Coming soon
-* Mobile‑optimized gameplay
-
----
-
-## 📦 Installation (Windows)
-
-1. Download the installer from the **Releases** section
-2. Run the `.exe` file
-3. Follow the installation steps
-4. Launch **Boomy Run** and start playing 🎉
+* **🧘 Relaxing Gameplay:** Low-stress mechanics designed for quick gaming breaks.
+* **🚫 Zero Friction:** No login, no registration, and no internet required for single-player.
+* **🛡️ Safe & Lightweight:** Optimized for Windows 10/11 with a small disk footprint.
+* **🎨 Vibrant Visuals:** Funny character designs and colorful environments.
 
 ---
 
 ## 📸 Screenshots
 
-*Add screenshots of gameplay here*
+| <img src="game1.png" width="200"> | <img src="game2.png" width="200"> | <img src="game3.png" width="200"> |
+| :---: | :---: | :---: |
+| **Level Start** | **Character Selection** | **Cat Character** |
 
-
- ├── <img src="game1.png" />
- ├── <img src="game2.png" />
- ├── <img src="game3.png" />
- ├── <img src="game4.png" />
- ├── <img src="game5.png" />
- ├── <img src="game6.png" />
- ├── <img src="game7.png" />
- ├── <img src="game8.png" />
-
+| <img src="game4.png" width="200"> | <img src="game5.png" width="200"> | <img src="game6.png" width="200"> |
+| :---: | :---: | :---: |
+| **Ducky Character** | **Levels** | **Victory Screen** |
 
 ---
 
-## 📄 License
+## 📦 Installation (Windows)
 
-This project is distributed under a **custom End User License Agreement (EULA)**.
+1. Go to the **[Releases](https://github.com/)** page.
+2. Download the latest `BoomyRun_Installer.exe`.
+3. Run the installer and follow the on-screen prompts.
+4. Launch the game from your desktop shortcut! 🎉
 
-See the `license.txt` file for full license details.
-
----
-
-## 📧 Contact
-
-**Soft Game Studio**
-📩 Email: [team.softgamestudio@gmail.com](mailto:team.softgamestudio@gmail.com)
+> [!TIP]
+> **System Requirements:** Windows 10/11 (64-bit), 4GB RAM, and a basic dedicated or integrated GPU.
 
 ---
 
-## ⭐ Support
-
-If you like the project:
-
-* ⭐ Star this repository
-* 🐞 Report issues or bugs
-* 💡 Share feedback and feature ideas
+## 📱 Mobile Version
+* **Android:** ⏳ Under development. Check back soon for the APK!
 
 ---
 
-Thank you for playing **Boomy Run** 🎮
+## 📄 License & Contact
+
+* **License:** Distributed under a **Custom EULA**. See `license.txt` for details.
+* **Email:** [team.softgamestudio@gmail.com](mailto:team.softgamestudio@gmail.com)
+
+---
+
+<p align="center">
+  <b>If you enjoy Boomy Run, please give us a ⭐ Star!</b><br>
+  <i>Developed with passion by Soft Game Studio</i>
+</p>
